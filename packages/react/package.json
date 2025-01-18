@@ -1,6 +1,6 @@
 {
-  "name": "@ignite-ui/react",
-  "version": "1.0.0",
+  "name": "@stein-ignite-ui/react",
+  "version": "1.1.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@stein-ignite-ui/eslint-config": "*",
+    "@stein-ignite-ui/tokens": "*",
+    "@stein-ignite-ui/ts-config": "*",
     "@types/react": "^19.0.7",
     "@types/react-dom": "^19.0.3",
     "react": "^19.0.0",
